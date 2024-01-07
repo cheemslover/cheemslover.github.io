@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1 style="text-align:center; color=white; background-color:blue;">
+<h1 style="text-align:center; color:white; background-color:blue;">
  Free Shipping Over 30
 <h1>
 <h2 style="text-align:center">Lomax Cards</h2>
