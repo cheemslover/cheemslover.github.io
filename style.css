@@ -46,14 +46,6 @@ body {
   width: 100%;
 }
 
-.navigation ul {
-
-margin: 0px;
-padding: 0 20px;
-list-style-type: none;
-
-}
-
 #header{
   display: flex;
   align-items: center;
@@ -67,6 +59,11 @@ list-style-type: none;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+#navbar li{
+  list-style: none;
+  padding:0 20px;
 }
 
 #body{
