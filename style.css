@@ -73,8 +73,19 @@ body {
   transition: 0.3s ease;
 }
 
-#navbar li a:hover {
+#navbar li a:hover,
+#navbar li a.active {
   color: #088178;
+}
+
+#navbar li a.active::after {
+  content: "";
+  width: 30%;
+  height: 2px;
+  background: #088178
+  position: absolute;
+  bottom: -4px;
+  left: 20px;
 }
 
 #body{
